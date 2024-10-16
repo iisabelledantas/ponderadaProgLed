@@ -9,6 +9,6 @@
 <img src="assets\codigoLed.png" width="100%" >
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp; Além disso, o link abaixo contém evidências em vídeo do funcionamento do LED
+&nbsp;&nbsp;&nbsp;&nbsp; Além disso, o link do drive abaixo contém evidências em vídeo do funcionamento do LED, como também na pasta de vídeos desse repositório.
 
 [Link do Drive](https://drive.google.com/drive/folders/1xnXzqVVJuS0lsvHNRM6zBpgu17COjyMh?usp=sharing)
